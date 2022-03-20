@@ -1,1 +1,2 @@
 Git bash is nice to use 
+This is used to edit the existing file the use add commit and push command again
